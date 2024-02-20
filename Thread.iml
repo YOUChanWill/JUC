@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Atomic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CAS" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CompletableFuture" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CompletableFutureMall" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Interrupt" isTestSource="false" />
