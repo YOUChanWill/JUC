@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/CompletableFutureMall" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Interrupt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LockSupport" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ThreadLocal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Volatile" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
